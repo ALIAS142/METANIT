@@ -1,0 +1,15 @@
+C:\Users\User\Metanit\1Programma\bin\Debug\net6.0\1Programma.exe
+C:\Users\User\Metanit\1Programma\bin\Debug\net6.0\1Programma.deps.json
+C:\Users\User\Metanit\1Programma\bin\Debug\net6.0\1Programma.runtimeconfig.json
+C:\Users\User\Metanit\1Programma\bin\Debug\net6.0\1Programma.dll
+C:\Users\User\Metanit\1Programma\bin\Debug\net6.0\1Programma.pdb
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.csproj.AssemblyReference.cache
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.AssemblyInfoInputs.cache
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.AssemblyInfo.cs
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.csproj.CoreCompileInputs.cache
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.dll
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\refint\1Programma.dll
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.pdb
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\1Programma.genruntimeconfig.cache
+C:\Users\User\Metanit\1Programma\obj\Debug\net6.0\ref\1Programma.dll
